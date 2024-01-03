@@ -41,6 +41,10 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 > This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
+### Tools Used
+Sql - https://github.com/VK1055/WalmartDataAnalysis/blob/main/Walmart.sql 
+
+
 ### Methodology
 
 1. **Data Cleaning:** This is the first step where inspection of data is done to make sure **NULL** values and missing values are detected and data replacement methods are used to replace, missing or **NULL** values.

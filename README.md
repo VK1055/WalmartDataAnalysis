@@ -41,9 +41,6 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 > This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
-### Tools Used
-Sql - https://github.com/VK1055/WalmartDataAnalysis/blob/main/Walmart.sql 
-
 
 ### Methodology
 
@@ -62,6 +59,9 @@ Sql - https://github.com/VK1055/WalmartDataAnalysis/blob/main/Walmart.sql
 > 3. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
 3.**Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
+
+### Tools Used
+Sql - Walmart.sql
 
 ## Business Questions To Answer
 

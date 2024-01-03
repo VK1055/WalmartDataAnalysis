@@ -68,7 +68,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 2.In which city is each branch?
 > Branch A is situated in Yangon, while Branch B is in Mandalay, and Branch C is positioned in Naypyitaw.
 
-### Product
+### Products
 
 1. How many unique product lines does the data have?
 > There are six exclusive product lines, namely Food and Beverages, Health and Beauty, Sports and Travel, Fashion Accessories, Home and Lifestyle, and Electronic Accessories.
@@ -91,7 +91,42 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 7.Which branch sold more products than average product sold?
 > Branch A sold more products than the average quantity sold across all branches, with a total quantity of 1849 units.
 
+8. What is the most common product line by gender?
+> The leading product lines for females are fashion accessories and food and beverages, while for males, the predominant product lines are health and beauty followed by electronics accessories. These are the top two most frequent product line preferences categorized by gender.
 
+9. What is the average rating of each product line?
+>The average ratings for different product lines are as follows: Food and beverages received an average rating of 7.1, Health and beauty and Fashion accessories both attained an average rating of 7, while Sports and travel and Electronic accessories garnered an average rating of 6.9 each. Home and lifestyle received an average rating of 6.8.
 
+### Customers
+1. How many unique customer types does the data have?
+> There are two customer types: normal and member
 
+2. How many unique payment methods does the data have?
+> There are three types of payment method:- credit card, e-wallet, cash
+
+3. What is the gender of most of the customers?
+> The number of male customers is 498, and the number of female customers is 497.
+
+4.Which customer type buys the most?
+> The customer type "member" appears to make the most purchases, with a count of 499, whereas the "normal" customer type has made 496 purchases.
+
+5.Which days fo the week has the best avg ratings?
+> The highest average ratings throughout the week are observed on Monday, followed closely by Friday, and then on Tuesday.
+
+6.Which day of the week has the best average ratings per branch?
+> The data indicates that, per branch, the following days of the week have the highest average ratings: Sunday for Branch A with a total sales of 52 units, Saturday for Branch B with a sale of 60, and Tuesday for Branch C with a sale of 54 units.
+
+### Sales
+
+1.What is the highest number of sales made during each time of the day through out the week?
+> Throughout the week, the highest number of sales occurred at specific times of the day: On Tuesday mornings, there were 36 sales; Wednesday afternoons recorded 61 sales, and Saturday evenings reached a peak of 81 sales.
+
+2. Which of the customer types brings the most revenue?
+> The customers who are members of Walmart bring in the most revenue, totaling 163,625 MMK, compared to the 'Normal' customer type, which generated a total revenue of 157,261 MMK.
+
+3.Which city has the largest tax/VAT percent
+> Naypyitaw has the highest VAT rate at 16% among all cities.
+
+4.Which customer type pays the most in VAT?
+> The 'member' customer type contributes the highest VAT payment at 16% compared to other customer types.
 

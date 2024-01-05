@@ -65,9 +65,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 Sql - Employed SQL queries and scripts to perform exploratory data analysis 
 
 **SQL Code**
-For the rest of the code, check the [Walmart.Sql](
+For the rest of the code, check the [Walmart.Sql](https://github.com/VK1055/WalmartDataAnalysis/blob/main/Walmart.sql) file
 
-```sql 
+```` sql
 -- Create database
 
 create database walmart;
@@ -94,6 +94,7 @@ CREATE TABLE IF NOT EXISTS sales(
     gross_income DECIMAL(12, 4),
     rating FLOAT(2, 1)
 );
+````
 
 ## Business Questions To Answer
 
